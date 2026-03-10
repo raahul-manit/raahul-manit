@@ -45,18 +45,28 @@ Currently transitioning into the data analytics field and building projects usin
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
 </a>
 
-</p>
+<a href="https://www.cplusplus.com/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c++" width="40" height="40"/> 
+</a>
 
----
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
+</a>
 
-### 📊 GitHub Stats
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
+</a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raahul-manit&show_icons=true&theme=default" />
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
+</a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raahul-manit&show_icons=true&locale=en&layout=compact" />
+
+
+<a href="https://aws.amazon.com/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> 
+</a>
+
 </p>
 
 ---
